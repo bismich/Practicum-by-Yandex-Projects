@@ -26,6 +26,7 @@ Step 1. Download the data and prepare it for analysis
 Store the data on visits, orders, and expenses in variables. Optimize the data for analysis. Make sure each column contains the correct data type.
 
 File paths:
+
 •	/datasets/visits_log_us.csv. Download dataset
 •	/datasets/orders_log_us.csv. Download dataset
 •	/datasets/costs_us.csv. Download dataset
